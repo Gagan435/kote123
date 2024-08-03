@@ -1,0 +1,12 @@
+mkdir name
+cd name
+git init
+git status
+touch name.txt
+ls
+git status
+vi name.txt
+cat name.txt
+git status
+git add .
+git status 
